@@ -117,9 +117,7 @@ changelog:
 
 release:
   github:
-    # KhaosSystems fork: releases publish here, as the KhaosSystems/truenas
-    # provider. Keep this commit out of PRs to PjSalty/terraform-provider-truenas.
-    owner: KhaosSystems
+    owner: PjSalty
     name: terraform-provider-truenas
   draft: false
   prerelease: auto
